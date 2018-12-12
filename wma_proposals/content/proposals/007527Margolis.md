@@ -24,33 +24,33 @@ submitter:
   organization: The Museum of Flight
   city: Seattle, WA
   primary_email: smargolis@museumofflight.org
-  secondary_email: 
+  secondary_email:
   telephone: 2067687116
-  is_moderator: Yes
+  is_moderator: true
   is_presenting: No
 moderator:
-  first_name: 
-  last_name: 
-  title: 
-  organization: 
-  city: 
-  primary_email: 
-  secondary_email: 
+  first_name:
+  last_name:
+  title:
+  organization:
+  city:
+  primary_email:
+  secondary_email:
   telephone: qwer
-  is_confirmed: 
-  is_presenting: 
-  reason: 
+  is_confirmed:
+  is_presenting:
+  reason:
 presenter_1:
-  first_name: Noel 
+  first_name: Noel
   last_name: Ratch
   title: Director
   organization: Reynolds-Alberta Museum
   city: Edmonton, AB, Canada
   primary_email: noel.ratch@gov.ab.ca
-  secondary_email: 
+  secondary_email:
   telephone: (780) 312-2068
   is_confirmed: No
-  reason: 
+  reason:
 presenter_2:
   first_name: Katie
   last_name: Buckingham
@@ -58,10 +58,10 @@ presenter_2:
   organization: Museum of Glass
   city: Tacoma, WA
   primary_email: none@includedonproposalform.com
-  secondary_email: 
-  telephone: 
+  secondary_email:
+  telephone:
   is_confirmed: No
-  reason: 
+  reason:
 presenter_3:
   first_name: Molly
   last_name: Wilmoth
@@ -69,21 +69,21 @@ presenter_3:
   organization: Washington State Historical Society
   city: Olympia, WA
   primary_email: none@includedonproposalform.com
-  secondary_email: 
-  telephone: 
+  secondary_email:
+  telephone:
   is_confirmed: No
-  reason: 
+  reason:
 presenter_4:
-  first_name: 
-  last_name: 
-  title: 
-  organization: 
-  city: 
-  primary_email: 
-  secondary_email: 
-  telephone: 
-  is_confirmed: 
-  reason: 
+  first_name:
+  last_name:
+  title:
+  organization:
+  city:
+  primary_email:
+  secondary_email:
+  telephone:
+  is_confirmed:
+  reason:
 keynote_suggestions: ""
 other_suggestions: ""
 
